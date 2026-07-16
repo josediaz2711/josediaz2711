@@ -70,6 +70,8 @@ El proyecto busca proporcionar una plataforma organizada para que los emprendedo
 - Firebase
 - Git y GitHub
 
+- https://github.com/josediaz2711/Software6_Yoki
+
 ---
 
 ### Sistema web para reserva de salón de eventos
